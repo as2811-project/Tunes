@@ -19,3 +19,5 @@ Search:
 <img width="1180" alt="image" src="https://github.com/as2811-project/tunes/assets/83534298/da75c673-4eb5-4b4e-84cd-5b1dc624225a">
 
 Note: Music player functionality has not been implemented. This is just a showcase of how a React App can be deployed using AWS.
+
+Checkout https://github.com/as2811-project/Tunes---Backend--Lambda- for Lambda code.
